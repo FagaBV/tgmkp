@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "id": "16dc2f78",
+            "name": "Brasov",
+            "subcategories": [
+                {
+                    "id": "seller_7632771409_cbd1b3aa",
+                    "name": "Afganu' 🌴🇦🇫",
+                    "owner_user_id": 7632771409,
+                    "is_seller_shop": true,
+                    "shop_name": "Magazin nou",
+                    "description": "Asta e magazinu mirific a lui afganu' ba băieți 🌴🇦🇫",
+                    "shop_image": "AgACAgQAAxkBAAICEWrdGi1xDxNGn4Zvkf1MBgrZIVz5AALkEGsbEmvxUmD2TtEgwkNiAQADAgADbQADPQQ"
+                },
+                {
+                    "id": "seller_8879037952_62976e3f",
+                    "name": "🇨🇴 Los Maniacis 🇨🇴",
+                    "owner_user_id": 8879037952,
+                    "is_seller_shop": true,
+                    "shop_name": "Magazin nou",
+                    "description": "Magazin dedicat consumului de stupefiante de calitate!"
+                },
+                {
+                    "id": "seller_7963915606_d12fd4ff",
+                    "name": "Magazin nou",
+                    "owner_user_id": 7963915606,
+                    "is_seller_shop": true,
+                    "shop_name": "Magazin nou"
+                }
+            ]
+        },
+        {
+            "id": "e8e99148",
+            "name": "Bucuresti",
+            "subcategories": []
+        },
+        {
+            "id": "4b3bff65",
+            "name": "Craiova",
+            "subcategories": []
+        },
+        {
+            "id": "78656918",
+            "name": "Buzau",
+            "subcategories": []
+        },
+        {
+            "id": "d7c7dfb9",
+            "name": "Bacau",
+            "subcategories": []
+        },
+        {
+            "id": "9e281dc5",
+            "name": "Constanta",
+            "subcategories": []
+        },
+        {
+            "id": "3a54027e",
+            "name": "Timișoara",
+            "subcategories": []
+        }
+    ]
+}

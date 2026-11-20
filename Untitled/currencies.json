@@ -1,0 +1,228 @@
+{
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "US Dollar",
+      "symbol": "$",
+      "flag": "🇺🇸",
+      "popular": true
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "flag": "🇪🇺",
+      "popular": true
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound",
+      "symbol": "£",
+      "flag": "🇬🇧",
+      "popular": true
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥",
+      "flag": "🇯🇵",
+      "popular": true
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "symbol": "C$",
+      "flag": "🇨🇦",
+      "popular": true
+    },
+    {
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "symbol": "A$",
+      "flag": "🇦🇺",
+      "popular": true
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "symbol": "CHF",
+      "flag": "🇨🇭",
+      "popular": true
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "symbol": "¥",
+      "flag": "🇨🇳",
+      "popular": true
+    },
+    {
+      "code": "INR",
+      "name": "Indian Rupee",
+      "symbol": "₹",
+      "flag": "🇮🇳",
+      "popular": true
+    },
+    {
+      "code": "KRW",
+      "name": "South Korean Won",
+      "symbol": "₩",
+      "flag": "🇰🇷",
+      "popular": true
+    },
+    {
+      "code": "RUB",
+      "name": "Russian Ruble",
+      "symbol": "₽",
+      "flag": "🇷🇺",
+      "popular": false
+    },
+    {
+      "code": "BRL",
+      "name": "Brazilian Real",
+      "symbol": "R$",
+      "flag": "🇧🇷",
+      "popular": false
+    },
+    {
+      "code": "MXN",
+      "name": "Mexican Peso",
+      "symbol": "$",
+      "flag": "🇲🇽",
+      "popular": false
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore Dollar",
+      "symbol": "S$",
+      "flag": "🇸🇬",
+      "popular": false
+    },
+    {
+      "code": "HKD",
+      "name": "Hong Kong Dollar",
+      "symbol": "HK$",
+      "flag": "🇭🇰",
+      "popular": false
+    },
+    {
+      "code": "NOK",
+      "name": "Norwegian Krone",
+      "symbol": "kr",
+      "flag": "🇳🇴",
+      "popular": false
+    },
+    {
+      "code": "SEK",
+      "name": "Swedish Krona",
+      "symbol": "kr",
+      "flag": "🇸🇪",
+      "popular": false
+    },
+    {
+      "code": "DKK",
+      "name": "Danish Krone",
+      "symbol": "kr",
+      "flag": "🇩🇰",
+      "popular": false
+    },
+    {
+      "code": "PLN",
+      "name": "Polish Zloty",
+      "symbol": "zł",
+      "flag": "🇵🇱",
+      "popular": false
+    },
+    {
+      "code": "CZK",
+      "name": "Czech Koruna",
+      "symbol": "Kč",
+      "flag": "🇨🇿",
+      "popular": false
+    },
+    {
+      "code": "TRY",
+      "name": "Turkish Lira",
+      "symbol": "₺",
+      "flag": "🇹🇷",
+      "popular": false
+    },
+    {
+      "code": "AED",
+      "name": "UAE Dirham",
+      "symbol": "د.إ",
+      "flag": "🇦🇪",
+      "popular": false
+    },
+    {
+      "code": "SAR",
+      "name": "Saudi Riyal",
+      "symbol": "﷼",
+      "flag": "🇸🇦",
+      "popular": false
+    },
+    {
+      "code": "ZAR",
+      "name": "South African Rand",
+      "symbol": "R",
+      "flag": "🇿🇦",
+      "popular": false
+    },
+    {
+      "code": "THB",
+      "name": "Thai Baht",
+      "symbol": "฿",
+      "flag": "🇹🇭",
+      "popular": false
+    },
+    {
+      "code": "MYR",
+      "name": "Malaysian Ringgit",
+      "symbol": "RM",
+      "flag": "🇲🇾",
+      "popular": false
+    },
+    {
+      "code": "IDR",
+      "name": "Indonesian Rupiah",
+      "symbol": "Rp",
+      "flag": "🇮🇩",
+      "popular": false
+    },
+    {
+      "code": "PHP",
+      "name": "Philippine Peso",
+      "symbol": "₱",
+      "flag": "🇵🇭",
+      "popular": false
+    },
+    {
+      "code": "VND",
+      "name": "Vietnamese Dong",
+      "symbol": "₫",
+      "flag": "🇻🇳",
+      "popular": false
+    },
+    {
+      "code": "EGP",
+      "name": "Egyptian Pound",
+      "symbol": "£",
+      "flag": "🇪🇬",
+      "popular": false
+    },
+    {
+      "code": "ILS",
+      "name": "Israeli Shekel",
+      "symbol": "₪",
+      "flag": "🇮🇱",
+      "popular": false
+    },
+    {
+      "code": "NGN",
+      "name": "Nigerian Naira",
+      "symbol": "₦",
+      "flag": "🇳🇬",
+      "popular": false
+    }
+  ]
+}

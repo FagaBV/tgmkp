@@ -1,0 +1,15 @@
+{
+  "total_products": 2,
+  "products": [
+    {
+      "id": 1,
+      "content": "https://pomf2.lain.la/f/6wxbod46.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "content": "https://pomf2.lain.la/f/6wxbod46.jpeg",
+      "status": "available"
+    }
+  ]
+}

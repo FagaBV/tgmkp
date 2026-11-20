@@ -1,0 +1,15 @@
+{
+  "total_products": 2,
+  "products": [
+    {
+      "id": 1,
+      "content": "https://dd.th61.com/mfkpvcnitn.jpg",
+      "status": "sold"
+    },
+    {
+      "id": 2,
+      "content": "https://dd.th61.com/mfkpvcnitn.jpg",
+      "status": "available"
+    }
+  ]
+}

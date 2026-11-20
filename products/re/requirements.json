@@ -1,0 +1,25 @@
+{
+  "total_products": 4,
+  "products": [
+    {
+      "id": 1,
+      "content": "pyTelegramBotAPI==4.14.0",
+      "status": "sold"
+    },
+    {
+      "id": 2,
+      "content": "requests==2.31.0",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "content": "urllib3==2.0.7",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "content": "reportlab",
+      "status": "available"
+    }
+  ]
+}

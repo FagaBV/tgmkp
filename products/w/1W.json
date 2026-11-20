@@ -1,0 +1,25 @@
+{
+  "total_products": 4,
+  "products": [
+    {
+      "id": 1,
+      "content": "1W: https://pomf2.lain.la/f/6w93zfar.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "content": "1W: https://pomf2.lain.la/f/6w93zfar.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "content": "1W: https://pomf2.lain.la/f/6w93zfar.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "content": "1W: https://pomf2.lain.la/f/6w93zfar.jpeg",
+      "status": "available"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+    "bot_token": "8133435461:AAGPVS5QMo34_fGRzuJ8kULFBEwXFnGAL4E",
+    "admin_ids": [658735801,1989734047],
+    "currency": {
+        "code": "USD",
+        "name": "US Dollar",
+        "symbol": "$",
+        "flag": "🇺🇸"
+    },
+    "order_expiry_minutes": 180,
+    "cleanup_interval_minutes": 5,
+    "payment_testing_mode": false,
+    "oxapay_api_key": "NPP3G6-LYZEUF-VGVQ3N-KRRRSZ",
+    "oxapay_sandbox": true,
+    "admin_chat_link": "/admin",
+    "supported_cryptocurrencies": {
+        "BTC": {
+            "name": "Bitcoin",
+            "emoji": "₿",
+            "networks": [
+                {
+                    "name": "Bitcoin",
+                    "code": "BTC",
+                    "display": "Bitcoin Network"
+                }
+            ]
+        },
+        "LTC": {
+            "name": "Litecoin",
+            "emoji": "Ł",
+            "networks": [
+                {
+                    "name": "Litecoin",
+                    "code": "LTC",
+                    "display": "Litecoin Network"
+                }
+            ]
+        },
+        "XMR": {
+            "name": "Monero",
+            "emoji": "ɱ",
+            "networks": [
+                {
+                    "name": "Monero",
+                    "code": "XMR",
+                    "display": "Monero Network"
+                }
+            ]
+        },
+        "USDTBSC": {
+            "name": "Tether USD (BEP20)",
+            "emoji": "₮",
+            "networks": [
+                {
+                    "name": "BSC BEP20",
+                    "code": "USDTBSC",
+                    "display": "USDT BEP20"
+                }
+            ]
+        },
+        "SOL": {
+            "name": "Solana",
+            "emoji": "◎",
+            "networks": [
+                {
+                    "name": "Solana",
+                    "code": "SOL",
+                    "display": "Solana Network"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,3461 @@
+{
+    "products": [
+        {
+            "id": "56fef9a3",
+            "name": "b520 pro",
+            "description": "adf test",
+            "code": "232jaa",
+            "price": 150,
+            "category_id": "453ec376",
+            "subcategory_id": "337f69da",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgUAAxkBAAM2aOn0nwxD0vDFRQ5XgGwgY0XvJ6oAAtcMaxuQYklXlFHkrvx7BhUBAAMCAAN4AAM2BA",
+                    "file_unique_id": "AQAD1wxrG5BiSVd9",
+                    "file_name": "image_0.jpg",
+                    "size": 16442,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760162975,
+                    "width": 438,
+                    "height": 436
+                }
+            ],
+            "files": [],
+            "stock": 9,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "6974ccb9",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/232jaa_*",
+                "temp_product_folder": "products/temp/232jaa_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "2189a215",
+            "name": "1 🌳 Orange G",
+            "description": "<b>Hybrid, milky taste. Preorder  cu instant 💧/12h, in functie de produs</b>",
+            "code": "Org1",
+            "price": 13,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "535839ad",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAMhaOoGpmp_4NN8bkzBpnVYWhsqHn0AAjfKMRvSZlFTLW6ArEmlVzIBAAMCAAN5AAM2BA",
+                    "file_unique_id": "AQADN8oxG9JmUVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 274736,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760232466,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "b7c1de13",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/Org1_*",
+                "temp_product_folder": "products/temp/Org1_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "9c90bee7",
+            "name": "1g Orange",
+            "description": "<b>Hybrid, milky. Preorder instant💧/12h in functie de produs",
+            "code": "034",
+            "price": 13,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "40613002",
+            "type": "line_file",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAMhaOoGpmp_4NN8bkzBpnVYWhsqHn0AAjfKMRvSZlFTLW6ArEmlVzIBAAMCAAN5AAM2BA",
+                    "file_unique_id": "AQADN8oxG9JmUVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 274736,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760235230,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIBPGjqWlVe-ihWFN3GveqJAAH4nC7DIwACZhwAAuSrUVNW7-LyN1ixrjYE",
+                    "file_name": "1 🌳, magnet negru, sub cutie.json",
+                    "original_file_name": "1 🌳, magnet negru, sub cutie.txt",
+                    "local_path": "products/034/1 🌳, magnet negru, sub cutie.json",
+                    "relative_path": "products/034/1 🌳, magnet negru, sub cutie.json",
+                    "size": 42,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "1eae44e0",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/034",
+                "temp_image_folder": "images/temp/034_*",
+                "temp_product_folder": "products/temp/034_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 1,
+                "total_files": 1
+            }
+        },
+        {
+            "id": "eb9896c7",
+            "name": "1g Orange",
+            "description": "<b>Hybrid, milky taste</b>",
+            "code": "ORG3",
+            "price": 13,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "40613002",
+            "type": "line_file",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAMhaOoGpmp_4NN8bkzBpnVYWhsqHn0AAjfKMRvSZlFTLW6ArEmlVzIBAAMCAAN5AAM2BA",
+                    "file_unique_id": "AQADN8oxG9JmUVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 274736,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760235563,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIBPGjqWlVe-ihWFN3GveqJAAH4nC7DIwACZhwAAuSrUVNW7-LyN1ixrjYE",
+                    "file_name": "1 🌳, magnet negru, sub cutie.json",
+                    "original_file_name": "1 🌳, magnet negru, sub cutie.txt",
+                    "local_path": "products/ORG3/1 🌳, magnet negru, sub cutie.json",
+                    "relative_path": "products/ORG3/1 🌳, magnet negru, sub cutie.json",
+                    "size": 42,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "2d893cdb",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/ORG3",
+                "temp_image_folder": "images/temp/ORG3_*",
+                "temp_product_folder": "products/temp/ORG3_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 1,
+                "total_files": 1
+            }
+        },
+        {
+            "id": "0db0d59a",
+            "name": "2g Viteza 🚫",
+            "description": "<b>Sulfat de amph, half dry\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "P",
+            "price": 48,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "c6c3fa41",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIGhGjvDk2c4z98wNa17_ixbRETV2URAAIJyzEbsTBpU6QNy9eAin8WAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADCcsxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 141179,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760497321,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "d4bcb529",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/P_*",
+                "temp_product_folder": "products/temp/P_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 125,
+                    "quantity": 1,
+                    "deadline": 1761410089,
+                    "reserved_at": 1761399289
+                },
+                {
+                    "order_id": 164,
+                    "quantity": 1,
+                    "deadline": 1762123701,
+                    "reserved_at": 1762112901
+                },
+                {
+                    "order_id": 165,
+                    "quantity": 1,
+                    "deadline": 1762124842,
+                    "reserved_at": 1762114042
+                },
+                {
+                    "order_id": 172,
+                    "quantity": 1,
+                    "deadline": 1762213836,
+                    "reserved_at": 1762203036
+                },
+                {
+                    "order_id": 231,
+                    "quantity": 2,
+                    "deadline": 1764042743,
+                    "reserved_at": 1764032090
+                },
+                {
+                    "order_id": 232,
+                    "quantity": 1,
+                    "deadline": 1764042936,
+                    "reserved_at": 1764032136
+                },
+                {
+                    "order_id": 237,
+                    "quantity": 1,
+                    "deadline": 1764074285,
+                    "reserved_at": 1764063516
+                },
+                {
+                    "order_id": 238,
+                    "quantity": 1,
+                    "deadline": 1764074470,
+                    "reserved_at": 1764063697
+                },
+                {
+                    "order_id": 257,
+                    "quantity": 1,
+                    "deadline": 1764777742,
+                    "reserved_at": 1764766942
+                },
+                {
+                    "order_id": 260,
+                    "quantity": 1,
+                    "deadline": 1764778472,
+                    "reserved_at": 1764767672
+                },
+                {
+                    "order_id": 261,
+                    "quantity": 1,
+                    "deadline": 1764778886,
+                    "reserved_at": 1764768086
+                },
+                {
+                    "order_id": 358,
+                    "quantity": 1,
+                    "deadline": 1767284851,
+                    "reserved_at": 1767274306
+                }
+            ]
+        },
+        {
+            "id": "75482231",
+            "name": "5G SPEED 🏃‍♂️🚫",
+            "description": "<b>Sulfat de amph halfdry\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "D",
+            "price": 120,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "c6c3fa41",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIGhGjvDk2c4z98wNa17_ixbRETV2URAAIJyzEbsTBpU6QNy9eAin8WAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADCcsxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 141179,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760497428,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "13df72f9",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/D_*",
+                "temp_product_folder": "products/temp/D_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 107,
+                    "quantity": 1,
+                    "deadline": 1760563649,
+                    "reserved_at": 1760552849
+                },
+                {
+                    "order_id": 286,
+                    "quantity": 1,
+                    "deadline": 1765571868,
+                    "reserved_at": 1765561068
+                },
+                {
+                    "order_id": 427,
+                    "quantity": 1,
+                    "deadline": 1768818083,
+                    "reserved_at": 1768807283
+                },
+                {
+                    "order_id": 440,
+                    "quantity": 1,
+                    "deadline": 1769364017,
+                    "reserved_at": 1769353217
+                }
+            ]
+        },
+        {
+            "id": "77021641",
+            "name": "1g Md 🚫",
+            "description": "<b>Diamant auriu, efect indelungat\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "M",
+            "price": 45,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "0865c5c9",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIGrWjvD2xM5jwLqShxCr6Ew1YqY3OCAAITyzEbsTBpU6DoerMO0m5ZAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADE8sxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 292729,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760497516,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "18f85d64",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/M_*",
+                "temp_product_folder": "products/temp/M_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 111,
+                    "quantity": 1,
+                    "deadline": 1760612497,
+                    "reserved_at": 1760601697
+                }
+            ]
+        },
+        {
+            "id": "c3d3e224",
+            "name": "2g Md🚫",
+            "description": "<b>Diamant auriu, efect indelungat\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "A",
+            "price": 90,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "0865c5c9",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIGrWjvD2xM5jwLqShxCr6Ew1YqY3OCAAITyzEbsTBpU6DoerMO0m5ZAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADE8sxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 292729,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760497625,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "ffedcf85",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/A_*",
+                "temp_product_folder": "products/temp/A_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 112,
+                    "quantity": 1,
+                    "deadline": 1760626988,
+                    "reserved_at": 1760616188
+                },
+                {
+                    "order_id": 274,
+                    "quantity": 1,
+                    "deadline": 1765118586,
+                    "reserved_at": 1765107786
+                }
+            ]
+        },
+        {
+            "id": "892cf07f",
+            "name": "3g Md 🚫",
+            "description": "<b>Diamant auriu, efect indelungat\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "E",
+            "price": 130,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "0865c5c9",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIGrWjvD2xM5jwLqShxCr6Ew1YqY3OCAAITyzEbsTBpU6DoerMO0m5ZAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADE8sxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 292729,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760497772,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "a4d8dd5c",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/E_*",
+                "temp_product_folder": "products/temp/E_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "7ca3a230",
+            "name": "2 Timbre 🚫",
+            "description": "<b>280ug, se recomanda 1 pentru incepatori, abuzul rezulta fried brain\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "L",
+            "price": 31,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "5a161b72",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIG6GjvESQD13NhHgbFnmR5DJtPEjJpAAINyzEbsTBpU_P_jOT3G_P_AQADAgADeQADNgQ",
+                    "file_unique_id": "AQADDcsxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 347394,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760497956,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "d6cc05c5",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/L_*",
+                "temp_product_folder": "products/temp/L_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 116,
+                    "quantity": 1,
+                    "deadline": 1760825554,
+                    "reserved_at": 1760814754
+                },
+                {
+                    "order_id": 145,
+                    "quantity": 1,
+                    "deadline": 1761875637,
+                    "reserved_at": 1761864837
+                },
+                {
+                    "order_id": 218,
+                    "quantity": 1,
+                    "deadline": 1763660470,
+                    "reserved_at": 1763649670
+                },
+                {
+                    "order_id": 219,
+                    "quantity": 1,
+                    "deadline": 1763660577,
+                    "reserved_at": 1763649777
+                }
+            ]
+        },
+        {
+            "id": "0225abaf",
+            "name": "3 Timbre 🚫",
+            "description": "<b>280ug, se recomanda 1 pentru incepatori, abuzul rezulta fried brain\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "C",
+            "price": 40,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "5a161b72",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIG6GjvESQD13NhHgbFnmR5DJtPEjJpAAINyzEbsTBpU_P_jOT3G_P_AQADAgADeQADNgQ",
+                    "file_unique_id": "AQADDcsxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 347394,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760498067,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "a7da8357",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/C_*",
+                "temp_product_folder": "products/temp/C_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 219,
+                    "quantity": 1,
+                    "deadline": 1763660577,
+                    "reserved_at": 1763657493
+                }
+            ]
+        },
+        {
+            "id": "3dfb0ef7",
+            "name": "5 TIMBRE 🌠🚫",
+            "description": "<b>280ug, se recomanda 1 pentru incepatori, abuzul rezulta fried brain\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "F",
+            "price": 70,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "5a161b72",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIG6GjvESQD13NhHgbFnmR5DJtPEjJpAAINyzEbsTBpU_P_jOT3G_P_AQADAgADeQADNgQ",
+                    "file_unique_id": "AQADDcsxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 347394,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760498119,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "8ef72ada",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/F_*",
+                "temp_product_folder": "products/temp/F_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 414,
+                    "quantity": 1,
+                    "deadline": 1768523790,
+                    "reserved_at": 1768512990
+                },
+                {
+                    "order_id": 430,
+                    "quantity": 1,
+                    "deadline": 1768836684,
+                    "reserved_at": 1768825884
+                }
+            ]
+        },
+        {
+            "id": "513c6ce1",
+            "name": "2 Bobe 🚫",
+            "description": "<b>280mg, bun pentru raves\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "B",
+            "price": 27,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "25451c0e",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIHEWjvEmvrQavGox3-_NJP7GENFdKSAAIMyzEbsTBpUzY1HXgkDn8dAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADDMsxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 267157,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760498283,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 2,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "2b8df5d7",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/B_*",
+                "temp_product_folder": "products/temp/B_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "f4b40143",
+            "name": "5 Bobe 🚫",
+            "description": "<b>280mg, bun pentru raves\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "R",
+            "price": 62,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "25451c0e",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIHEWjvEmvrQavGox3-_NJP7GENFdKSAAIMyzEbsTBpUzY1HXgkDn8dAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADDMsxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 267157,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760498352,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 5,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "39499af6",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/R_*",
+                "temp_product_folder": "products/temp/R_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "0a65d5e0",
+            "name": "5g Orange 🚫",
+            "description": "<b>Hybrid, sticky, smelly\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "G",
+            "price": 70,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "953f4346",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIHY2jvFis_uzBXkPgEexoZD-x7t0prAAIKyzEbsTBpU7zeWpJyNA1VAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADCssxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 274736,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760499303,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "f1efa301",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/G_*",
+                "temp_product_folder": "products/temp/G_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 239,
+                    "quantity": 1,
+                    "deadline": 1764104161,
+                    "reserved_at": 1764093361
+                }
+            ]
+        },
+        {
+            "id": "a23980f7",
+            "name": "10g Orange 🚫",
+            "description": "<b>Hybrid, sticky, smelly\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "U",
+            "price": 114,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "953f4346",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIHY2jvFis_uzBXkPgEexoZD-x7t0prAAIKyzEbsTBpU7zeWpJyNA1VAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADCssxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 274736,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760499402,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 4,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "b84c4b95",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/U_*",
+                "temp_product_folder": "products/temp/U_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 128,
+                    "quantity": 1,
+                    "deadline": 1761506746,
+                    "reserved_at": 1761495946
+                },
+                {
+                    "order_id": 129,
+                    "quantity": 1,
+                    "deadline": 1761508163,
+                    "reserved_at": 1761497363
+                },
+                {
+                    "order_id": 130,
+                    "quantity": 1,
+                    "deadline": 1761514117,
+                    "reserved_at": 1761503317
+                },
+                {
+                    "order_id": 194,
+                    "quantity": 1,
+                    "deadline": 1762804095,
+                    "reserved_at": 1762793295
+                }
+            ]
+        },
+        {
+            "id": "3ea02aec",
+            "name": "20g Orange 🚫",
+            "description": "<b>Hybrid, sticky, smelly\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "V",
+            "price": 183,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "953f4346",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIHY2jvFis_uzBXkPgEexoZD-x7t0prAAIKyzEbsTBpU7zeWpJyNA1VAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADCssxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 274736,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760499481,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 20,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "c3e3c05e",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/V_*",
+                "temp_product_folder": "products/temp/V_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 292,
+                    "quantity": 1,
+                    "deadline": 1765713626,
+                    "reserved_at": 1765702826
+                }
+            ]
+        },
+        {
+            "id": "2213f819",
+            "name": "50g Orange 🚫",
+            "description": "<b>Hybrid, sticky, smelly\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "J",
+            "price": 365,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "953f4346",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIHY2jvFis_uzBXkPgEexoZD-x7t0prAAIKyzEbsTBpU7zeWpJyNA1VAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADCssxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 274736,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760499565,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 50,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "2af80308",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/J_*",
+                "temp_product_folder": "products/temp/J_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "719da836",
+            "name": "100g Orange 🚫",
+            "description": "<b>Hybrid, sticky, smelly\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.</b>",
+            "code": "Iu",
+            "price": 640,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "953f4346",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIHY2jvFis_uzBXkPgEexoZD-x7t0prAAIKyzEbsTBpU7zeWpJyNA1VAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADCssxG7EwaVN-",
+                    "file_name": "image_0.jpg",
+                    "size": 274736,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1760499631,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 100,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "e0a3ad77",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/Iu_*",
+                "temp_product_folder": "products/temp/Iu_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 166,
+                    "quantity": 2,
+                    "deadline": 1762130710,
+                    "reserved_at": 1762119910
+                }
+            ]
+        },
+        {
+            "id": "db540403",
+            "name": "5 MONEY BAGS 💰🚫",
+            "description": "Money bags, 18-30mg, se recomanda utilizarea a cate 1.\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "y",
+            "price": 80,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "49edf626",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIMImj_hGXUvbcyz9rKoOVhMTZvXAE2AAJ6C2sblLcAAVCoP0g3mJLIHgEAAwIAA3kAAzYE",
+                    "file_unique_id": "AQADegtrG5S3AAFQfg",
+                    "file_name": "image_0.jpg",
+                    "size": 266294,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1761576108,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "d69374d1",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/y_*",
+                "temp_product_folder": "products/temp/y_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 143,
+                    "quantity": 1,
+                    "deadline": 1761875344,
+                    "reserved_at": 1761864544
+                },
+                {
+                    "order_id": 146,
+                    "quantity": 1,
+                    "deadline": 1761875857,
+                    "reserved_at": 1761865057
+                }
+            ]
+        },
+        {
+            "id": "d6d2ac26",
+            "name": "10 MONEY BAGS 💰🚫",
+            "description": "Money bags, 18-30mg, se recomanda utilizarea a cate 1.\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "q",
+            "price": 130,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "49edf626",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIMImj_hGXUvbcyz9rKoOVhMTZvXAE2AAJ6C2sblLcAAVCoP0g3mJLIHgEAAwIAA3kAAzYE",
+                    "file_unique_id": "AQADegtrG5S3AAFQfg",
+                    "file_name": "image_0.jpg",
+                    "size": 266294,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1761576149,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 10,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "7c0f1892",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/q_*",
+                "temp_product_folder": "products/temp/q_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "c2bc60e3",
+            "name": "Jumica Cocos 🚫",
+            "description": "Orig: Bolivia, uleios la frecare, miros de benzina\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "X",
+            "price": 60,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "8b6826ab",
+            "type": "line_file",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAINKmkBy9vx1Xwp6UKvhIySNOkQN6UeAAJnC2sbYrsRUFbuUICmsB8wAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADZwtrG2K7EVB-",
+                    "file_name": "image_0.jpg",
+                    "size": 262038,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1761740508,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAINg2kCLHoyMc44I0pYmR2gRMW6tAn0AALpHwACYrsZULzGP7X4iVQoNgQ",
+                    "file_name": "jum cocos.json",
+                    "original_file_name": "jum cocos.txt",
+                    "local_path": "products/X/jum cocos.json",
+                    "relative_path": "products/X/jum cocos.json",
+                    "size": 37,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "dfafbc18",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/X",
+                "temp_image_folder": "images/temp/X_*",
+                "temp_product_folder": "products/temp/X_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 1,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 152,
+                    "quantity": 1,
+                    "deadline": 1761978563,
+                    "reserved_at": 1761967763
+                },
+                {
+                    "order_id": 163,
+                    "quantity": 1,
+                    "deadline": 1762115901,
+                    "reserved_at": 1762105101
+                },
+                {
+                    "order_id": 173,
+                    "quantity": 1,
+                    "deadline": 1762216798,
+                    "reserved_at": 1762205998
+                }
+            ]
+        },
+        {
+            "id": "518d8b6c",
+            "name": "1g Chei 🚫",
+            "description": "Shards",
+            "code": "K",
+            "price": 35,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "c334553e",
+            "type": "line_file",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAINk2kCMNsLyraSKj2hPf415jgHevT5AAJNC2sbYrsZUCgZM7TNilKgAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADTQtrG2K7GVB-",
+                    "file_name": "image_0.jpg",
+                    "size": 141179,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1761751259,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAINlWkCMQH8CWwGWUv8CT7HDoGrjJYzAAL6HwACYrsZUPeCQjnieQ93NgQ",
+                    "file_name": "1g k.json",
+                    "original_file_name": "1g k.txt",
+                    "local_path": "products/K/1g k.json",
+                    "relative_path": "products/K/1g k.json",
+                    "size": 36,
+                    "type": "json",
+                    "line_count": 3
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "284742db",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/K",
+                "temp_image_folder": "images/temp/K_*",
+                "temp_product_folder": "products/temp/K_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 1,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 148,
+                    "quantity": 1,
+                    "deadline": 1761897466,
+                    "reserved_at": 1761886666
+                },
+                {
+                    "order_id": 150,
+                    "quantity": 1,
+                    "deadline": 1761960213,
+                    "reserved_at": 1761949413
+                },
+                {
+                    "order_id": 226,
+                    "quantity": 1,
+                    "deadline": 1763844134,
+                    "reserved_at": 1763833334
+                },
+                {
+                    "order_id": 229,
+                    "quantity": 1,
+                    "deadline": 1763957922,
+                    "reserved_at": 1763947122
+                }
+            ]
+        },
+        {
+            "id": "345d014a",
+            "name": "100ml Sirop 🚫",
+            "description": "Code si Prome, movaliu ca in US\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "x",
+            "price": 135,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "a723e7c7",
+            "type": "delivered",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIQumkHxUnurvT5JN0bbyDYLJlgkrslAAKGC2sb1-FBUEbJgKe6DXkTAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADhgtrG9fhQVB-",
+                    "file_name": "image_0.jpg",
+                    "size": 294340,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1762116987,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [],
+            "stock": 5,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "19ca881f",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/x_*",
+                "temp_product_folder": "products/temp/x_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 1,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 168,
+                    "quantity": 1,
+                    "deadline": 1762152126,
+                    "reserved_at": 1762141326
+                }
+            ]
+        },
+        {
+            "id": "a3dd9292",
+            "name": "2g Orange",
+            "description": "Hybrid, sticky, smelly\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "d",
+            "price": 22,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "953f4346",
+            "type": "line_file",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAITjGkOIa_Ss9y2-asXRG43GKypm6KhAAJJGmsb-65xULJZxkZtnia4AQADAgADeQADNgQ",
+                    "file_unique_id": "AQADSRprG_uucVB-",
+                    "file_name": "image_0.jpg",
+                    "size": 425418,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1762533807,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAITjmkOIhZI0fNpUre2fSbz2ITYQMcIAAK4GwAC-65xUEXu5v30AAFiCTYE",
+                    "file_name": "2W.json",
+                    "original_file_name": "2W.txt",
+                    "local_path": "products/d/2W.json",
+                    "relative_path": "products/d/2W.json",
+                    "size": 41,
+                    "type": "json",
+                    "line_count": 3
+                }
+            ],
+            "stock": 2,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "5755f08e",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/d",
+                "temp_image_folder": "images/temp/d_*",
+                "temp_product_folder": "products/temp/d_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 1,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 186,
+                    "quantity": 1,
+                    "deadline": 1762629764,
+                    "reserved_at": 1762618964
+                },
+                {
+                    "order_id": 200,
+                    "quantity": 2,
+                    "deadline": 1762895107,
+                    "reserved_at": 1762884309
+                },
+                {
+                    "order_id": 203,
+                    "quantity": 2,
+                    "deadline": 1762970137,
+                    "reserved_at": 1762959351
+                }
+            ]
+        },
+        {
+            "id": "f6afa802",
+            "name": "1g Orange",
+            "description": "Hybrid, sticky, smelly\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "w",
+            "price": 11,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "953f4346",
+            "type": "line_file",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAITjGkOIa_Ss9y2-asXRG43GKypm6KhAAJJGmsb-65xULJZxkZtnia4AQADAgADeQADNgQ",
+                    "file_unique_id": "AQADSRprG_uucVB-",
+                    "file_name": "image_0.jpg",
+                    "size": 425418,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1762534041,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAITnWkOItVnYK874j0jCJ1_HtLsLASNAAK7GwAC-65xUDCM8vy48UIwNgQ",
+                    "file_name": "1W.json",
+                    "original_file_name": "1W.txt",
+                    "local_path": "products/w/1W.json",
+                    "relative_path": "products/w/1W.json",
+                    "size": 41,
+                    "type": "json",
+                    "line_count": 4
+                }
+            ],
+            "stock": 2,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "5b478900",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/w",
+                "temp_image_folder": "images/temp/w_*",
+                "temp_product_folder": "products/temp/w_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 1,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 192,
+                    "quantity": 2,
+                    "deadline": 1762749786,
+                    "reserved_at": 1762738988
+                },
+                {
+                    "order_id": 199,
+                    "quantity": 1,
+                    "deadline": 1762885000,
+                    "reserved_at": 1762874200
+                },
+                {
+                    "order_id": 200,
+                    "quantity": 1,
+                    "deadline": 1762895107,
+                    "reserved_at": 1762884331
+                }
+            ]
+        },
+        {
+            "id": "8ef69759",
+            "name": "1g Viteza",
+            "description": "Sulfat de amph half dry.\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "p",
+            "price": 25,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "c6c3fa41",
+            "type": "line_file",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIUuWkPXmHQ_T8b5mva2Ndi8Z8thJeOAAJ_DGsbx1h5UKEaDe0hAsERAQADAgADeQADNgQ",
+                    "file_unique_id": "AQADfwxrG8dYeVB-",
+                    "file_name": "image_0.jpg",
+                    "size": 247939,
+                    "type": "image",
+                    "storage_type": "telegram_file_id",
+                    "uploaded_at": 1762614881,
+                    "width": 853,
+                    "height": 1280
+                }
+            ],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIUu2kPXm1A6zyV1vu4mqPs4IRbxM3cAAKUHQACx1h5UPOEzukI09W5NgQ",
+                    "file_name": "8 Nov.json",
+                    "original_file_name": "8 Nov.txt",
+                    "local_path": "products/p/8 Nov.json",
+                    "relative_path": "products/p/8 Nov.json",
+                    "size": 41,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "61e27862",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/p",
+                "temp_image_folder": "images/temp/p_*",
+                "temp_product_folder": "products/temp/p_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 1,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "98dd4f6c",
+            "name": "2 Money Bags",
+            "description": "Money bags, 18-30mg, se recomanda utilizarea a cate 1.\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "g",
+            "price": 30,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "49edf626",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIVrmkRNTRCNRj2DnzOmcqBvK8wDD2GAAIVHgACZDKJUHExXNfoMG50NgQ",
+                    "file_name": "2 x 2cb.json",
+                    "original_file_name": "2 x 2cb.txt",
+                    "local_path": "products/g/2 x 2cb.json",
+                    "relative_path": "products/g/2 x 2cb.json",
+                    "size": 40,
+                    "type": "json",
+                    "line_count": 5
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "9f526dc9",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/g",
+                "temp_image_folder": "images/temp/g_*",
+                "temp_product_folder": "products/temp/g_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 191,
+                    "quantity": 1,
+                    "deadline": 1762747127,
+                    "reserved_at": 1762736327
+                },
+                {
+                    "order_id": 196,
+                    "quantity": 1,
+                    "deadline": 1762819721,
+                    "reserved_at": 1762808921
+                },
+                {
+                    "order_id": 198,
+                    "quantity": 1,
+                    "deadline": 1762879303,
+                    "reserved_at": 1762868534
+                },
+                {
+                    "order_id": 202,
+                    "quantity": 1,
+                    "deadline": 1762967558,
+                    "reserved_at": 1762956758
+                }
+            ]
+        },
+        {
+            "id": "7817fa9b",
+            "name": "Create your own cart!",
+            "description": "Creeaza ti propriul cos cu mai multe produse, un singur 💧\nCumpara acest produs, iar operatorul primeste notify, pregateste vremea de ploaie….\n\nComanda minima 200 lei.",
+            "code": "m",
+            "price": 20,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "941bd8ea",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 5,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "6cc8616b",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/m_*",
+                "temp_product_folder": "products/temp/m_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 207,
+                    "quantity": 1,
+                    "deadline": 1763258313,
+                    "reserved_at": 1763247513
+                },
+                {
+                    "order_id": 233,
+                    "quantity": 1,
+                    "deadline": 1764045727,
+                    "reserved_at": 1764034927
+                },
+                {
+                    "order_id": 237,
+                    "quantity": 1,
+                    "deadline": 1764074285,
+                    "reserved_at": 1764063485
+                },
+                {
+                    "order_id": 238,
+                    "quantity": 1,
+                    "deadline": 1764074470,
+                    "reserved_at": 1764064321
+                },
+                {
+                    "order_id": 252,
+                    "quantity": 1,
+                    "deadline": 1764547229,
+                    "reserved_at": 1764536429
+                },
+                {
+                    "order_id": 275,
+                    "quantity": 1,
+                    "deadline": 1765127776,
+                    "reserved_at": 1765116976
+                },
+                {
+                    "order_id": 277,
+                    "quantity": 1,
+                    "deadline": 1765167089,
+                    "reserved_at": 1765156289
+                },
+                {
+                    "order_id": 316,
+                    "quantity": 1,
+                    "deadline": 1766583745,
+                    "reserved_at": 1766572945
+                },
+                {
+                    "order_id": 355,
+                    "quantity": 1,
+                    "deadline": 1767200005,
+                    "reserved_at": 1767189205
+                },
+                {
+                    "order_id": 358,
+                    "quantity": 1,
+                    "deadline": 1767284851,
+                    "reserved_at": 1767274051
+                },
+                {
+                    "order_id": 368,
+                    "quantity": 2,
+                    "deadline": 1767468656,
+                    "reserved_at": 1767457859
+                },
+                {
+                    "order_id": 370,
+                    "quantity": 2,
+                    "deadline": 1767494804,
+                    "reserved_at": 1767484007
+                },
+                {
+                    "order_id": 409,
+                    "quantity": 1,
+                    "deadline": 1768392749,
+                    "reserved_at": 1768381949
+                }
+            ]
+        },
+        {
+            "id": "218d20d6",
+            "name": "10G SPEED 🏃‍♂️🚫",
+            "description": "Sulfat de amph, half dry\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "a",
+            "price": 170,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "c6c3fa41",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "0bf654b6",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/a_*",
+                "temp_product_folder": "products/temp/a_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "6d862cae",
+            "name": "10 Bobe 🚫",
+            "description": "Juice: 280mg bun pentru raves\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "e",
+            "price": 90,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "25451c0e",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "f310b340",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/e_*",
+                "temp_product_folder": "products/temp/e_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 304,
+                    "quantity": 2,
+                    "deadline": 1766283578,
+                    "reserved_at": 1766272782
+                },
+                {
+                    "order_id": 318,
+                    "quantity": 1,
+                    "deadline": 1766599212,
+                    "reserved_at": 1766588412
+                },
+                {
+                    "order_id": 319,
+                    "quantity": 1,
+                    "deadline": 1766599417,
+                    "reserved_at": 1766588617
+                },
+                {
+                    "order_id": 324,
+                    "quantity": 1,
+                    "deadline": 1766613762,
+                    "reserved_at": 1766602962
+                },
+                {
+                    "order_id": 330,
+                    "quantity": 1,
+                    "deadline": 1766786671,
+                    "reserved_at": 1766775871
+                },
+                {
+                    "order_id": 331,
+                    "quantity": 1,
+                    "deadline": 1766788283,
+                    "reserved_at": 1766777483
+                }
+            ]
+        },
+        {
+            "id": "72d9a028",
+            "name": "50g Orange🌳",
+            "description": "Copaci tată, nu gluma. Miros, gust, aspect.\nInainte de a da checkout, Completati campul unde vi se cere adresa cu:\n-Burner Name\n-Burner Address sau Easybox\n-Burner nr de telefon (pt primirea codului la pickup)\nApoi puteti confirma orderul, operatorul primeste notificare instant, lasandu-va in privat AWB ul.\nPretul final include si taxa coletului si decoy ul sau.",
+            "code": "j",
+            "price": 390,
+            "category_id": "c9ea5aae",
+            "subcategory_id": "633da678",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 2,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "1829748e",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/j_*",
+                "temp_product_folder": "products/temp/j_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 341,
+                    "quantity": 1,
+                    "deadline": 1766949640,
+                    "reserved_at": 1766938877
+                },
+                {
+                    "order_id": 367,
+                    "quantity": 1,
+                    "deadline": 1767464661,
+                    "reserved_at": 1767453861
+                },
+                {
+                    "order_id": 375,
+                    "quantity": 2,
+                    "deadline": 1767565354,
+                    "reserved_at": 1767554565
+                }
+            ]
+        },
+        {
+            "id": "bff5713b",
+            "name": "100g Orange🌳",
+            "description": "Copaci tată, nu gluma. Miros, gust, aspect.\nInainte de a da checkout, Completati campul unde vi se cere adresa cu:\n-Burner Name\n-Burner Address sau Easybox\n-Burner nr de telefon (pt primirea codului la pickup)\nApoi puteti confirma orderul, operatorul primeste notificare instant, lasandu-va in privat AWB ul.\nPretul final include si taxa coletului si decoy ul sau.",
+            "code": "l",
+            "price": 720,
+            "category_id": "c9ea5aae",
+            "subcategory_id": "633da678",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 5,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "c0380950",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/l_*",
+                "temp_product_folder": "products/temp/l_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 365,
+                    "quantity": 1,
+                    "deadline": 1767412241,
+                    "reserved_at": 1767401441
+                },
+                {
+                    "order_id": 367,
+                    "quantity": 2,
+                    "deadline": 1767464661,
+                    "reserved_at": 1767453901
+                }
+            ]
+        },
+        {
+            "id": "00af9662",
+            "name": "5 PUNISHER💀",
+            "description": "Ala albastru, de te arunca in stratosfera.\nDupa confirmarea platii, veti primi un fisier txt cu un hotlink ce contine detaliile dropului.",
+            "code": "9",
+            "price": 65,
+            "category_id": "c15ca836",
+            "subcategory_id": "e85aee1c",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIgemk6Lofmzar1h8JuRWwYOAABWJ-EAgAC4xwAAlmt0FFADhg-L4CL0jYE",
+                    "file_name": "5BB.json",
+                    "original_file_name": "5BB.txt",
+                    "local_path": "products/9/5BB.json",
+                    "relative_path": "products/9/5BB.json",
+                    "size": 40,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "aa71f154",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/9",
+                "temp_image_folder": "images/temp/9_*",
+                "temp_product_folder": "products/temp/9_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 310,
+                    "quantity": 1,
+                    "deadline": 1766533431,
+                    "reserved_at": 1766522631
+                },
+                {
+                    "order_id": 311,
+                    "quantity": 1,
+                    "deadline": 1766534550,
+                    "reserved_at": 1766523750
+                },
+                {
+                    "order_id": 312,
+                    "quantity": 1,
+                    "deadline": 1766535223,
+                    "reserved_at": 1766524423
+                },
+                {
+                    "order_id": 313,
+                    "quantity": 1,
+                    "deadline": 1766535379,
+                    "reserved_at": 1766524579
+                },
+                {
+                    "order_id": 314,
+                    "quantity": 1,
+                    "deadline": 1766537155,
+                    "reserved_at": 1766526355
+                }
+            ]
+        },
+        {
+            "id": "2fb8eee8",
+            "name": "2G ORANGE 🍊",
+            "description": "Ala albastru, de te arunca in stratosfera.\nDupa confirmarea platii, veti primi un fisier txt cu un hotlink ce contine detaliile dropului.",
+            "code": "___",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "e9750f66",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIhXWk8vgULLj6ucUnmDGeWUwUJIt9xAAKHIQACLgvpUU_bswABR0MgmzYE",
+                    "file_name": "2BB.json",
+                    "original_file_name": "2BB.txt",
+                    "local_path": "products/___/2BB.json",
+                    "relative_path": "products/___/2BB.json",
+                    "size": 40,
+                    "type": "json",
+                    "line_count": 6
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "250d8df0",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/___",
+                "temp_image_folder": "images/temp/____*",
+                "temp_product_folder": "products/temp/____*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 299,
+                    "quantity": 1,
+                    "deadline": 1766181503,
+                    "reserved_at": 1766170703
+                },
+                {
+                    "order_id": 321,
+                    "quantity": 2,
+                    "deadline": 1766602188,
+                    "reserved_at": 1766599945
+                },
+                {
+                    "order_id": 325,
+                    "quantity": 2,
+                    "deadline": 1766642483,
+                    "reserved_at": 1766631688
+                },
+                {
+                    "order_id": 326,
+                    "quantity": 1,
+                    "deadline": 1766642510,
+                    "reserved_at": 1766631710
+                },
+                {
+                    "order_id": 327,
+                    "quantity": 1,
+                    "deadline": 1766649436,
+                    "reserved_at": 1766638636
+                },
+                {
+                    "order_id": 342,
+                    "quantity": 1,
+                    "deadline": 1766949715,
+                    "reserved_at": 1766938915
+                }
+            ]
+        },
+        {
+            "id": "1f843c96",
+            "name": "2 PUNISHER 💀",
+            "description": "Ala albastru, de te arunca in stratosfera.\nDupa confirmarea platii, veti primi un fisier txt cu un hotlink ce contine detaliile dropului.",
+            "code": "0",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "13601547",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIh4Wk_ZYgjHknYapsBmPYb_vQq3I2HAAKmPwACg30BUsWO5wt-KQxQNgQ",
+                    "file_name": "2Bb.json",
+                    "original_file_name": "2Bb.txt",
+                    "local_path": "products/0/2Bb.json",
+                    "relative_path": "products/0/2Bb.json",
+                    "size": 42,
+                    "type": "json",
+                    "line_count": 3
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "c9315ba0",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/0",
+                "temp_image_folder": "images/temp/0_*",
+                "temp_product_folder": "products/temp/0_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 298,
+                    "quantity": 1,
+                    "deadline": 1766177239,
+                    "reserved_at": 1766166439
+                },
+                {
+                    "order_id": 301,
+                    "quantity": 1,
+                    "deadline": 1766185826,
+                    "reserved_at": 1766175026
+                },
+                {
+                    "order_id": 317,
+                    "quantity": 1,
+                    "deadline": 1766585865,
+                    "reserved_at": 1766575065
+                },
+                {
+                    "order_id": 320,
+                    "quantity": 1,
+                    "deadline": 1766600488,
+                    "reserved_at": 1766589688
+                }
+            ]
+        },
+        {
+            "id": "117dc19e",
+            "name": "5 TIMBRE 🌠",
+            "description": "“1943” pattern 300ug.\nDupa confirmarea platii, primiti instant un fisier txt, cu un hotlink catre drop",
+            "code": "____",
+            "price": 65,
+            "category_id": "c15ca836",
+            "subcategory_id": "e9750f66",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIiaWlDIJMLxCfu5sAIf_Ub0hq0DneBAAILGgACJ4MYUgABLh7HZv0mITYE",
+                    "file_name": "5T.json",
+                    "original_file_name": "5T.txt",
+                    "local_path": "products/____/5T.json",
+                    "relative_path": "products/____/5T.json",
+                    "size": 41,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "a2033cc0",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/____",
+                "temp_image_folder": "images/temp/_____*",
+                "temp_product_folder": "products/temp/_____*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            }
+        },
+        {
+            "id": "4fcdeab8",
+            "name": "2 TIMBRE 🌠",
+            "description": "“1943” 300ug",
+            "code": "1",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "e85aee1c",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIimGlDSdn7LNxXhwp68NUNS2ZGBzdgAAJuGgACJ4MYUmAZ6_jH0941NgQ",
+                    "file_name": "2T.json",
+                    "original_file_name": "2T.txt",
+                    "local_path": "products/1/2T.json",
+                    "relative_path": "products/1/2T.json",
+                    "size": 41,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "108bbe03",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/1",
+                "temp_image_folder": "images/temp/1_*",
+                "temp_product_folder": "products/temp/1_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 297,
+                    "quantity": 1,
+                    "deadline": 1766096602,
+                    "reserved_at": 1766085804
+                }
+            ]
+        },
+        {
+            "id": "2cd5d5b6",
+            "name": "1 TIMBRU 🌠",
+            "description": "“1943” pattern 300ug.\nDupa confirmarea platii, primiti instant un fisier txt, cu un hotlink catre drop",
+            "code": "8",
+            "price": 16,
+            "category_id": "c15ca836",
+            "subcategory_id": "e85aee1c",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIjdGlH33lcfZfpxgiJW9h3mYN9Sx1mAALMGAACAUJAUgdoG6S2OycXNgQ",
+                    "file_name": "1T.json",
+                    "original_file_name": "1T.txt",
+                    "local_path": "products/8/1T.json",
+                    "relative_path": "products/8/1T.json",
+                    "size": 41,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "2ceb572b",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/8",
+                "temp_image_folder": "images/temp/8_*",
+                "temp_product_folder": "products/temp/8_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 332,
+                    "quantity": 1,
+                    "deadline": 1766795788,
+                    "reserved_at": 1766784988
+                },
+                {
+                    "order_id": 403,
+                    "quantity": 1,
+                    "deadline": 1768258981,
+                    "reserved_at": 1768248181
+                },
+                {
+                    "order_id": 404,
+                    "quantity": 1,
+                    "deadline": 1768259197,
+                    "reserved_at": 1768248397
+                }
+            ]
+        },
+        {
+            "id": "3150d115",
+            "name": "50 Timbre🌠",
+            "description": "🌠🚴”1943” 🚴‍♂️Pattern - 300ug🌠",
+            "code": "50_TMB",
+            "price": 300,
+            "category_id": "c9ea5aae",
+            "subcategory_id": "633da678",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "cd8b657a",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/50_TMB_*",
+                "temp_product_folder": "products/temp/50_TMB_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 391,
+                    "quantity": 1,
+                    "deadline": 1767833575,
+                    "reserved_at": 1767822778
+                }
+            ]
+        },
+        {
+            "id": "5e4bfb80",
+            "name": "2G GELATO 🍇",
+            "description": "Pute in draci, muguri movalii deschis. Dupa confirmarea platii, primiti un fisier txt cu hotlink la 💧",
+            "code": "3",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "e85aee1c",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIlpWlP6sOCI-2DKZ_au26opST6VdC8AAJ9GAACLOaAUtXyg_vpcEZONgQ",
+                    "file_name": "2g rasp.json",
+                    "original_file_name": "2g rasp.txt",
+                    "local_path": "products/3/2g rasp.json",
+                    "relative_path": "products/3/2g rasp.json",
+                    "size": 41,
+                    "type": "json",
+                    "line_count": 4
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "6bec3a19",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/3",
+                "temp_image_folder": "images/temp/3_*",
+                "temp_product_folder": "products/temp/3_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "f39e871f",
+            "name": "2G LEMON 🍋",
+            "description": "Lamaia clasica, aia buna pt ori si ce.\nDupa confirmarea platii, primiti instant un fisier txt cu hotlinkul la 💧",
+            "code": "6",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "13601547",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAImRmlRSSX5t4wjovA8hv976HnpKZ3eAAIFGwACoMOIUra4uyn1o3-xNgQ",
+                    "file_name": "2G Lemon.json",
+                    "original_file_name": "2G Lemon.txt",
+                    "local_path": "products/6/2G Lemon.json",
+                    "relative_path": "products/6/2G Lemon.json",
+                    "size": 43,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "22146a71",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/6",
+                "temp_image_folder": "images/temp/6_*",
+                "temp_product_folder": "products/temp/6_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 344,
+                    "quantity": 1,
+                    "deadline": 1766965607,
+                    "reserved_at": 1766954807
+                }
+            ]
+        },
+        {
+            "id": "f4de66fe",
+            "name": "1g Viteza 🚫",
+            "description": "Sulfat de amph half dry.\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "2",
+            "price": 27,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "c6c3fa41",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "a3d0f188",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/2_*",
+                "temp_product_folder": "products/temp/2_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 374,
+                    "quantity": 1,
+                    "deadline": 1767517506,
+                    "reserved_at": 1767506706
+                },
+                {
+                    "order_id": 381,
+                    "quantity": 2,
+                    "deadline": 1767671579,
+                    "reserved_at": 1767660789
+                },
+                {
+                    "order_id": 384,
+                    "quantity": 1,
+                    "deadline": 1767732130,
+                    "reserved_at": 1767721330
+                },
+                {
+                    "order_id": 389,
+                    "quantity": 1,
+                    "deadline": 1767830905,
+                    "reserved_at": 1767820105
+                }
+            ]
+        },
+        {
+            "id": "d6e2eafa",
+            "name": "2G 🏃‍♂️ D3LT47",
+            "description": "Nu comanda daca nu ai acest username, strict courier.",
+            "code": "_",
+            "price": 70,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "941bd8ea",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "e70cd41a",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/__*",
+                "temp_product_folder": "products/temp/__*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "0ad73170",
+            "name": "10 TIMBRE 🌠🚫",
+            "description": "🚴‍♂️1943🚴‍♂️, 300ug",
+            "code": "23",
+            "price": 110,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "5a161b72",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "764d499e",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/23_*",
+                "temp_product_folder": "products/temp/23_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 380,
+                    "quantity": 1,
+                    "deadline": 1767669591,
+                    "reserved_at": 1767658791
+                },
+                {
+                    "order_id": 431,
+                    "quantity": 1,
+                    "deadline": 1768837822,
+                    "reserved_at": 1768827022
+                }
+            ]
+        },
+        {
+            "id": "7ec56705",
+            "name": "10 Punisher💀",
+            "description": "280mg, netherlands.\nInainte de a da checkout, Completati campul unde vi se cere adresa cu:\n-Burner Name\n-Burner Address sau Easybox\n-Burner nr de telefon (pt primirea codului la pickup)\nApoi puteti confirma orderul, operatorul primeste notificare instant, lasandu-va in privat AWB ul.",
+            "code": "09",
+            "price": 120,
+            "category_id": "c9ea5aae",
+            "subcategory_id": "633da678",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "38bb4084",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/09_*",
+                "temp_product_folder": "products/temp/09_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "ac115989",
+            "name": "5g Viteza🏃‍♂️",
+            "description": "Alb ca varul, pasta.\n\nInainte de a da checkout, Completati campul unde vi se cere adresa cu:\n-Burner Name\n-Burner Address sau Easybox\n-Burner nr de telefon (pt primirea codului la pickup)\nApoi puteti confirma orderul, operatorul primeste notificare instant, lasandu-va in privat AWB ul.\nPretul final include si taxa coletului si decoy ul sau.",
+            "code": "34",
+            "price": 120,
+            "category_id": "c9ea5aae",
+            "subcategory_id": "633da678",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 3,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "f50e7adb",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/34_*",
+                "temp_product_folder": "products/temp/34_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "76a60221",
+            "name": "10g Viteza 🏃‍♂️",
+            "description": "Alba ca varul, pasta\n\nInainte de a da checkout, Completati campul unde vi se cere adresa cu:\n-Burner Name\n-Burner Address sau Easybox\n-Burner nr de telefon (pt primirea codului la pickup)\nApoi puteti confirma orderul, operatorul primeste notificare instant, lasandu-va in privat AWB ul.\nPretul final include si taxa coletului si decoy ul sau.",
+            "code": "12",
+            "price": 172,
+            "category_id": "c9ea5aae",
+            "subcategory_id": "633da678",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 4,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "6d20e91e",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/12_*",
+                "temp_product_folder": "products/temp/12_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "e6c31fe7",
+            "name": "3G Raspbbery alexx",
+            "description": "Nu comanda daca nu ai acest username. Preorder cu 💧 in aceeasi zi",
+            "code": "21",
+            "price": 40,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "941bd8ea",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "5855617e",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/21_*",
+                "temp_product_folder": "products/temp/21_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 384,
+                    "quantity": 1,
+                    "deadline": 1767732130,
+                    "reserved_at": 1767723636
+                }
+            ]
+        },
+        {
+            "id": "5caccefb",
+            "name": "1G SPEED 🏃‍♂️",
+            "description": "100% Romanesc, cooked by Ion.\nDupa confirmarea platii, veti primi un fisier txt cu un hotlink ul la 💧",
+            "code": "45",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "e85aee1c",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIqWmlh5wvTobNOFwVym9-TAvDIR7ARAALqHQACTq0QU4umtK2UhDSqOAQ",
+                    "file_name": "1g spd.json",
+                    "original_file_name": "1g spd.txt",
+                    "local_path": "products/45/1g spd.json",
+                    "relative_path": "products/45/1g spd.json",
+                    "size": 34,
+                    "type": "json",
+                    "line_count": 4
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "d762e3df",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/45",
+                "temp_image_folder": "images/temp/45_*",
+                "temp_product_folder": "products/temp/45_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 397,
+                    "quantity": 1,
+                    "deadline": 1768150654,
+                    "reserved_at": 1768139854
+                },
+                {
+                    "order_id": 434,
+                    "quantity": 1,
+                    "deadline": 1768882577,
+                    "reserved_at": 1768871777
+                }
+            ]
+        },
+        {
+            "id": "8941a1e9",
+            "name": "5G MD 🥂🚫",
+            "description": "Diamant auriu, efect indelungat\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "02",
+            "price": 130,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "0865c5c9",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 2,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "15266b1d",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/02_*",
+                "temp_product_folder": "products/temp/02_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "44991787",
+            "name": "10G MD 🥂🚫",
+            "description": "Diamant auriu, efect indelungat\nPreorderele se onoreaza in aceeasi zi/24h, intarzierile se anunta cu optiune de refund. Daca comanda este anulata din prima, este lipsa stock, refund automat.",
+            "code": "03",
+            "price": 190,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "0865c5c9",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 2,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "5a4533d0",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/03_*",
+                "temp_product_folder": "products/temp/03_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "a3f4097c",
+            "name": "50 TIMBRE 🌠🚫",
+            "description": "🚴‍♂️1943🚴‍♂️ 🌠 300µg",
+            "code": "4",
+            "price": 300,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "5a161b72",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 4,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "d1737d5a",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/4_*",
+                "temp_product_folder": "products/temp/4_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "25a7473f",
+            "name": "1G SPEED 🏃‍♂️",
+            "description": "Cooked by the Vendor. Dupa confirmare, primiti un txt file cu linkul la 💧",
+            "code": "15",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "13601547",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIrRGlibooN105Hr6E1Pl92Z-zDDfokAAI2HgACTq0QU69clJom3oAvOAQ",
+                    "file_name": "1G SPS2.json",
+                    "original_file_name": "1G SPS2.txt",
+                    "local_path": "products/15/1G SPS2.json",
+                    "relative_path": "products/15/1G SPS2.json",
+                    "size": 35,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "8dd05226",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/15",
+                "temp_image_folder": "images/temp/15_*",
+                "temp_product_folder": "products/temp/15_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "91298389",
+            "name": "2 TIMBRE 🌠",
+            "description": "🚴‍♂️1943🚴‍♂️🌠300ug. Dupa confirmarea platii, veti primi un txt cu detaliile 💧",
+            "code": "5",
+            "price": 32,
+            "category_id": "c15ca836",
+            "subcategory_id": "13601547",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIrsWljtuJptY5Lp6QFcEZ5uEK5QYPfAAK1HQACCTIhU1KdIfMOpR-cOAQ",
+                    "file_name": "2t s2.json",
+                    "original_file_name": "2t s2.txt",
+                    "local_path": "products/5/2t s2.json",
+                    "relative_path": "products/5/2t s2.json",
+                    "size": 34,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "95bc76c8",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/5",
+                "temp_image_folder": "images/temp/5_*",
+                "temp_product_folder": "products/temp/5_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "cd494657",
+            "name": "3 TIMBRE 🌠",
+            "description": "🚴‍♂️1943🚴‍♂️🌠300ug. Dupa confirmarea platii, veti primi un txt cu detaliile 💧",
+            "code": "90",
+            "price": 40,
+            "category_id": "c15ca836",
+            "subcategory_id": "13601547",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIrvmljtyVud9j4xx79HbrpbifsfoV0AAK2HQACCTIhU1EWA1n0ZL8NOAQ",
+                    "file_name": "3T.json",
+                    "original_file_name": "3T.txt",
+                    "local_path": "products/90/3T.json",
+                    "relative_path": "products/90/3T.json",
+                    "size": 34,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "ef644259",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/90",
+                "temp_image_folder": "images/temp/90_*",
+                "temp_product_folder": "products/temp/90_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "bee4347f",
+            "name": "1 TIMBRU 🌠",
+            "description": "“1943” pattern 300ug.\nDupa confirmarea platii, primiti instant un fisier txt, cu un hotlink catre drop",
+            "code": "Tmb",
+            "price": 16,
+            "category_id": "c15ca836",
+            "subcategory_id": "607ac094",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIsRGllK_1kLA1C__jHfH7Klbv5DZrBAAJhGwAC8mEpU52dk1QxqBeqOAQ",
+                    "file_name": "1T S4.json",
+                    "original_file_name": "1T S4.txt",
+                    "local_path": "products/Tmb/1T S4.json",
+                    "relative_path": "products/Tmb/1T S4.json",
+                    "size": 34,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "7b3744b3",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/Tmb",
+                "temp_image_folder": "images/temp/Tmb_*",
+                "temp_product_folder": "products/temp/Tmb_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 411,
+                    "quantity": 1,
+                    "deadline": 1768419625,
+                    "reserved_at": 1768408825
+                }
+            ]
+        },
+        {
+            "id": "2b78f50f",
+            "name": "2 TIMBRE 🌠",
+            "description": "“1943” pattern 300ug.\nDupa confirmarea platii, primiti instant un fisier txt, cu un hotlink catre drop",
+            "code": "tmb02",
+            "price": 32,
+            "category_id": "c15ca836",
+            "subcategory_id": "607ac094",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIsT2llLDLjXNi2nGrz0ZImAAFZiIxNIwACYhsAAvJhKVMAAVwKLLuXQcA4BA",
+                    "file_name": "2t s2.json",
+                    "original_file_name": "2t s2.txt",
+                    "local_path": "products/tmb02/2t s2.json",
+                    "relative_path": "products/tmb02/2t s2.json",
+                    "size": 34,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "09df6a30",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/tmb02",
+                "temp_image_folder": "images/temp/tmb02_*",
+                "temp_product_folder": "products/temp/tmb02_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            }
+        },
+        {
+            "id": "e96a3294",
+            "name": "1 TIMBRU 🌠",
+            "description": "🚴‍♂️1943🚴‍♂️, 300ug\nDupa confirmarea platii, primiti un fisier txt cu 💧",
+            "code": "06",
+            "price": 16,
+            "category_id": "c15ca836",
+            "subcategory_id": "e9750f66",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIsfWllg1pzHnaFPDei2jr3RhrY22v0AAKuGwAC8mEpU8lSFKG27I0oOAQ",
+                    "file_name": "1T S3.json",
+                    "original_file_name": "1T S3.txt",
+                    "local_path": "products/06/1T S3.json",
+                    "relative_path": "products/06/1T S3.json",
+                    "size": 35,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "be7a4dec",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/06",
+                "temp_image_folder": "images/temp/06_*",
+                "temp_product_folder": "products/temp/06_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "2bf73219",
+            "name": "5 TIMBRE 🌠",
+            "description": "Hybrid spre indica.\nDupa confirmarea platii, veti primi un fisier txt cu detaliile 💧",
+            "code": "87",
+            "price": 70,
+            "category_id": "c15ca836",
+            "subcategory_id": "e85aee1c",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIss2lmYqAqoAS8Gqk4bAwtsyReMkRLAALoGwAC8mExU8XbXj4ee52NOAQ",
+                    "file_name": "5W s5.json",
+                    "original_file_name": "5W s5.txt",
+                    "local_path": "products/87/5W s5.json",
+                    "relative_path": "products/87/5W s5.json",
+                    "size": 35,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "b7ab242b",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/87",
+                "temp_image_folder": "images/temp/87_*",
+                "temp_product_folder": "products/temp/87_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 419,
+                    "quantity": 1,
+                    "deadline": 1768623942,
+                    "reserved_at": 1768613142
+                }
+            ]
+        },
+        {
+            "id": "7aaf1037",
+            "name": "2G ORANGE🍊",
+            "description": "Sticky icky. Dupa confirmarea platii, primiti un fisier txt cu detaliile 💧",
+            "code": "-64",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "e85aee1c",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIszGlmmgKoII7mbTWD9vVcpTcnAjPBAAIfHAAC8mExU67126h4wHntOAQ",
+                    "file_name": "2W s5.json",
+                    "original_file_name": "2W s5.txt",
+                    "local_path": "products/-64/2W s5.json",
+                    "relative_path": "products/-64/2W s5.json",
+                    "size": 35,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "8d9ec6f2",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/-64",
+                "temp_image_folder": "images/temp/-64_*",
+                "temp_product_folder": "products/temp/-64_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 410,
+                    "quantity": 1,
+                    "deadline": 1768418655,
+                    "reserved_at": 1768407858
+                }
+            ]
+        },
+        {
+            "id": "85871af8",
+            "name": "1G KEY🔑",
+            "description": "Zahar intepator, f bun pt somn. \nDupa confirmarea platii primiti un txt cu 💧",
+            "code": "K3",
+            "price": 40,
+            "category_id": "c15ca836",
+            "subcategory_id": "e85aee1c",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIs62lm66OZvBoiC94mEJPoZpikY6hmAAJQHQACjgg4U9FrX2wIzAzNOAQ",
+                    "file_name": "1K S5.json",
+                    "original_file_name": "1K S5.txt",
+                    "local_path": "products/K3/1K S5.json",
+                    "relative_path": "products/K3/1K S5.json",
+                    "size": 69,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "d272a5aa",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/K3",
+                "temp_image_folder": "images/temp/K3_*",
+                "temp_product_folder": "products/temp/K3_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "1862efe7",
+            "name": "2G KEY🔑",
+            "description": "Shards. \nDupa confirmarea platii, primiti un fisier txt cu 💧",
+            "code": "3K",
+            "price": 70,
+            "category_id": "c15ca836",
+            "subcategory_id": "e9750f66",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAItQWln2dAt7sw6b4CIBTGOWHbYuRDyAALFGwACjghAU7H_OXLRPF_KOAQ",
+                    "file_name": "2K s3.json",
+                    "original_file_name": "2K s3.txt",
+                    "local_path": "products/3K/2K s3.json",
+                    "relative_path": "products/3K/2K s3.json",
+                    "size": 35,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "23fb2a8a",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/3K",
+                "temp_image_folder": "images/temp/3K_*",
+                "temp_product_folder": "products/temp/3K_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            }
+        },
+        {
+            "id": "5367a0a4",
+            "name": "1G KEY🔑",
+            "description": "Shards. \nDupa comfirmarea platii, primiti un fisier txt cu 💧",
+            "code": "5K",
+            "price": 40,
+            "category_id": "c15ca836",
+            "subcategory_id": "13601547",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAItTmln2iiY09nN7jNDr7IzgrydZYJpAALGGwACjghAU5IfV_ZhDy0COAQ",
+                    "file_name": "1K s2.json",
+                    "original_file_name": "1K s2.txt",
+                    "local_path": "products/5K/1K s2.json",
+                    "relative_path": "products/5K/1K s2.json",
+                    "size": 35,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 1,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": true,
+            "created_at": "1f4c1de1",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/5K",
+                "temp_image_folder": "images/temp/5K_*",
+                "temp_product_folder": "products/temp/5K_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "4de55134",
+            "name": "2G ORANGE🍊",
+            "description": "Some sticky icky.",
+            "code": "W34",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "13601547",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIt6WlqZtYtxSWecP9SSnF3tlLkSjzWAALWGgAC5hBRU5m8xpCbDJv5OAQ",
+                    "file_name": "2W S2.json",
+                    "original_file_name": "2W S2.txt",
+                    "local_path": "products/W34/2W S2.json",
+                    "relative_path": "products/W34/2W S2.json",
+                    "size": 34,
+                    "type": "json",
+                    "line_count": 2
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "a691d323",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/W34",
+                "temp_image_folder": "images/temp/W34_*",
+                "temp_product_folder": "products/temp/W34_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 418,
+                    "quantity": 1,
+                    "deadline": 1768604918,
+                    "reserved_at": 1768594118
+                }
+            ]
+        },
+        {
+            "id": "e879e328",
+            "name": "1G SPEED 🏃‍♂️‍➡️",
+            "description": "Roca, fina.",
+            "code": "44",
+            "price": 27,
+            "category_id": "c15ca836",
+            "subcategory_id": "e9750f66",
+            "type": "line_file",
+            "images": [],
+            "files": [
+                {
+                    "file_id": "BQACAgQAAxkBAAIvvmlvm8by7ntZ2Lyu7fS9xeWle3fAAAJLHgACuXl4Uw46ML-vaj9xOAQ",
+                    "file_name": "1Sp 3.json",
+                    "original_file_name": "1Sp 3.txt",
+                    "local_path": "products/44/1Sp 3.json",
+                    "relative_path": "products/44/1Sp 3.json",
+                    "size": 35,
+                    "type": "json",
+                    "line_count": 1
+                }
+            ],
+            "stock": 0,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "932ad804",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": "products/44",
+                "temp_image_folder": "images/temp/44_*",
+                "temp_product_folder": "products/temp/44_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": false,
+                "total_images": 0,
+                "total_files": 1
+            },
+            "reserved_stock": []
+        },
+        {
+            "id": "a813d496",
+            "name": "Jumica Cocos",
+            "description": "Peru, Kerosen si uleios cand o freci",
+            "code": "cx1",
+            "price": 60,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "8b6826ab",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 10,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "97764696",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/cx1_*",
+                "temp_product_folder": "products/temp/cx1_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 445,
+                    "quantity": 1,
+                    "deadline": 1769436472,
+                    "reserved_at": 1769425672
+                }
+            ]
+        },
+        {
+            "id": "7704d50e",
+            "name": "1g Cocos",
+            "description": "Peru, Kerosen si uleioasa cand o freci",
+            "code": "cx2",
+            "price": 115,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "8b6826ab",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 10,
+            "reviews_enabled": true,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "637fb86e",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/cx2_*",
+                "temp_product_folder": "products/temp/cx2_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "e599081e",
+            "name": "2g Cocos",
+            "description": "Peru, Kerosen, uleioasa cand o freci",
+            "code": "cx3",
+            "price": 230,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "8b6826ab",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 5,
+            "reviews_enabled": false,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "aefb6d74",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/cx3_*",
+                "temp_product_folder": "products/temp/cx3_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            }
+        },
+        {
+            "id": "1a1b97cf",
+            "name": "2G Orange 👻G",
+            "description": "nu cumpara daca nu ai acest username",
+            "code": "org1",
+            "price": 27,
+            "category_id": "a8df7fbd",
+            "subcategory_id": "941bd8ea",
+            "type": "delivered",
+            "images": [],
+            "files": [],
+            "stock": 1,
+            "reviews_enabled": false,
+            "status": "saved",
+            "hidden": false,
+            "created_at": "4dbbd01f",
+            "folder_paths": {
+                "image_folder": null,
+                "product_folder": null,
+                "temp_image_folder": "images/temp/org1_*",
+                "temp_product_folder": "products/temp/org1_*"
+            },
+            "storage_info": {
+                "images_use_file_ids": true,
+                "files_use_file_ids": true,
+                "total_images": 0,
+                "total_files": 0
+            },
+            "reserved_stock": [
+                {
+                    "order_id": 442,
+                    "quantity": 2,
+                    "deadline": 1769376678,
+                    "reserved_at": 1769365969
+                }
+            ]
+        }
+    ]
+}

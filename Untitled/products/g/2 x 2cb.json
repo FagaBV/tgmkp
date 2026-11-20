@@ -1,0 +1,30 @@
+{
+  "total_products": 5,
+  "products": [
+    {
+      "id": 1,
+      "content": "Cb https://pomf2.lain.la/f/kqg24mac.jpeg",
+      "status": "sold"
+    },
+    {
+      "id": 2,
+      "content": "Cb https://pomf2.lain.la/f/kqg24mac.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "content": "Cb https://pomf2.lain.la/f/kqg24mac.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "content": "Cb https://pomf2.lain.la/f/kqg24mac.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "content": "Cb https://pomf2.lain.la/f/kqg24mac.jpeg",
+      "status": "available"
+    }
+  ]
+}

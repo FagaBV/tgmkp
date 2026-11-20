@@ -1,0 +1,35 @@
+{
+  "total_products": 6,
+  "products": [
+    {
+      "id": 1,
+      "content": "2B: https://pomf2.lain.la/f/ihjxfbw.jpeg",
+      "status": "sold"
+    },
+    {
+      "id": 2,
+      "content": "2B: https://pomf2.lain.la/f/ihjxfbw.jpeg",
+      "status": "sold"
+    },
+    {
+      "id": 3,
+      "content": "2r: https://pomf2.lain.la/f/v59jn6u3.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "content": "2r: https://pomf2.lain.la/f/v59jn6u3.jpeg",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "content": "https://dd.th61.com/fns1e34qlg.jpg",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "content": "https://dd.th61.com/fns1e34qlg.jpg",
+      "status": "available"
+    }
+  ]
+}

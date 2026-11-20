@@ -1,0 +1,159 @@
+{
+    "products": [
+        {
+            "id": "seller_prod_7632771409_1",
+            "code": "seller_prod_7632771409_1",
+            "name": "5G Turkemnistan Hash",
+            "description": "Asta este descrierea produsului nu mai am alte idei cd sa pun și cer",
+            "price": 25,
+            "stock": 1,
+            "type": "drop",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAObajQCVa2oDX3-65W72Z7LH_cHuGwAAuYNaxuERqFRfbk2E-78mfIBAAMCAAN5AAM8BA",
+                    "file_unique_id": "AQAD5g1rG4RGoVF-",
+                    "width": 716,
+                    "height": 1280,
+                    "type": "photo"
+                }
+            ],
+            "files": [],
+            "drop_items": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIIJWqEZROWcBsDOrHLbib4l7LllQbjAAKZD2sbAnEpUEXXJjV0Gms4AQADAgADeQADPQQ",
+                    "caption": "Drop3",
+                    "type": "photo",
+                    "stock_type": "padure"
+                },
+                {
+                    "file_id": "AgACAgQAAxkBAAIIKGqEZS0UaFvui66r7WTMc1dLmrgkAAKaD2sbAnEpUFqe_ZUgdaArAQADAgADeQADPQQ",
+                    "caption": "Drop4",
+                    "type": "photo",
+                    "stock_type": "oras"
+                }
+            ],
+            "drop_caption": null,
+            "status": "saved",
+            "hidden": false,
+            "owner_user_id": 7632771409,
+            "category_id": "16dc2f78",
+            "subcategory_id": "seller_7632771409_cbd1b3aa",
+            "is_seller_product": true,
+            "reviews_enabled": true,
+            "reserved_stock": [
+                {
+                    "order_id": 14,
+                    "quantity": 1,
+                    "deadline": 1783385988,
+                    "reserved_at": 1783375188
+                },
+                {
+                    "order_id": 15,
+                    "quantity": 1,
+                    "deadline": 1783386003,
+                    "reserved_at": 1783375203
+                },
+                {
+                    "order_id": 15,
+                    "quantity": 1,
+                    "deadline": 1783386003,
+                    "reserved_at": 1783375206
+                },
+                {
+                    "order_id": 16,
+                    "quantity": 1,
+                    "deadline": 1784660126,
+                    "reserved_at": 1784649326
+                },
+                {
+                    "order_id": 29,
+                    "quantity": 1,
+                    "deadline": 1787226658,
+                    "reserved_at": 1787215858
+                },
+                {
+                    "order_id": 30,
+                    "quantity": 1,
+                    "deadline": 1787232932,
+                    "reserved_at": 1787222132
+                },
+                {
+                    "order_id": 31,
+                    "quantity": 1,
+                    "deadline": 1787238206,
+                    "reserved_at": 1787227406
+                }
+            ]
+        },
+        {
+            "id": "seller_prod_8879037952_3",
+            "code": "seller_prod_8879037952_3",
+            "name": "Verde",
+            "description": "5 grame de iarbă top",
+            "price": 200,
+            "stock": 3,
+            "type": "drop",
+            "images": [
+                {
+                    "file_id": "AgACAgQAAxkBAAIKgGqRoKhn81ev5A_xJ_Cvq2mYURyKAAJrE2sba0eQUCOFkIwrdgy6AQADAgADeQADPQQ",
+                    "file_unique_id": "AQADaxNrG2tHkFB-",
+                    "width": 591,
+                    "height": 1280,
+                    "type": "photo"
+                }
+            ],
+            "files": [],
+            "drop_items": [
+                {
+                    "file_id": "AgACAgQAAxkBAAILxWqZ5SWnECndBhwzjw1-xql1Jel4AAJhD2sbySDQUA4g3Z4nSx_AAQADAgADeAADPQQ",
+                    "caption": "",
+                    "type": "photo",
+                    "stock_type": "oras"
+                },
+                {
+                    "file_id": "AgACAgQAAxkBAAILxWqZ5SWnECndBhwzjw1-xql1Jel4AAJhD2sbySDQUA4g3Z4nSx_AAQADAgADeAADPQQ",
+                    "caption": "",
+                    "type": "photo",
+                    "stock_type": "padure"
+                }
+            ],
+            "drop_caption": null,
+            "status": "saved",
+            "hidden": false,
+            "owner_user_id": 8879037952,
+            "category_id": "16dc2f78",
+            "subcategory_id": "seller_8879037952_62976e3f",
+            "is_seller_product": true,
+            "reviews_enabled": true,
+            "reserved_stock": []
+        },
+        {
+            "id": "seller_prod_8879037952_4",
+            "code": "seller_prod_8879037952_4",
+            "name": "2G Coco",
+            "description": "",
+            "price": 0,
+            "stock": 0,
+            "type": "drop",
+            "images": [],
+            "files": [],
+            "drop_items": [],
+            "drop_caption": null,
+            "status": "saved",
+            "hidden": false,
+            "owner_user_id": 8879037952,
+            "category_id": "16dc2f78",
+            "subcategory_id": "seller_8879037952_62976e3f",
+            "is_seller_product": true,
+            "reviews_enabled": true,
+            "reserved_stock": [
+                {
+                    "order_id": 23,
+                    "quantity": 1,
+                    "deadline": 1787044609,
+                    "reserved_at": 1787033809
+                }
+            ]
+        }
+    ]
+}

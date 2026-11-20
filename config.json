@@ -1,0 +1,114 @@
+{
+  "bot_token": "8564746867:AAEC09hvCvfcxt9cA7HM5a5kZ4_o1czU-Cc",
+  "admin_ids": [
+    8879037952,
+    7632771409,
+    8576751323
+  ],
+  "currency": {
+    "code": "RON",
+    "name": "Romanian Leu",
+    "symbol": "RON",
+    "flag": "🇷🇴"
+  },
+  "usd_to_ron": 4.55,
+  "fees": {
+    "deposit": 5,
+    "seller_sale": 5,
+    "cashout": 5,
+    "cashout_minimum": 1000
+  },
+  "order_expiry_minutes": 180,
+  "cleanup_interval_minutes": 5,
+  "payment_testing_mode": false,
+  "admin_chat_link": "/admin",
+  "supported_cryptocurrencies": {
+    "BTC": {
+      "name": "Bitcoin",
+      "emoji": "₿",
+      "networks": [
+        {
+          "name": "Bitcoin",
+          "code": "BTC",
+          "display": "Bitcoin Network"
+        }
+      ]
+    },
+    "LTC": {
+      "name": "Litecoin",
+      "emoji": "Ł",
+      "networks": [
+        {
+          "name": "Litecoin",
+          "code": "LTC",
+          "display": "Litecoin Network"
+        }
+      ]
+    },
+    "XMR": {
+      "name": "Monero",
+      "emoji": "ɱ",
+      "networks": [
+        {
+          "name": "Monero",
+          "code": "XMR",
+          "display": "Monero Network"
+        }
+      ]
+    },
+    "USDTBSC": {
+      "name": "Tether USD (BEP20)",
+      "emoji": "₮",
+      "networks": [
+        {
+          "name": "BSC BEP20",
+          "code": "USDTBSC",
+          "display": "USDT BEP20"
+        }
+      ]
+    },
+    "SOL": {
+      "name": "Solana",
+      "emoji": "◎",
+      "networks": [
+        {
+          "name": "Solana",
+          "code": "SOL",
+          "display": "Solana Network"
+        }
+      ]
+    }
+  },
+  "shkeeper": {
+    "base_url": "http://127.0.0.1:5000",
+    "username": "admin",
+    "password": "Alexuicool1!",
+    "callback_url": "http://76.13.52.149:8787/shkeeper/callback?token=CHANGE_ME_LONG_RANDOM",
+    "callback_secret": "random1call2back3secret4by5omul6scurt720!26x44702",
+    "timeout": 20,
+    "price_timeout": 10,
+    "api_keys": {
+      "LTC": "uSNzKS5sjQhHqGmw",
+      "BNB-USDT": "g5yE9AyuFkmwt4uJ"
+    },
+    "currency_map": {
+      "LTC": "LTC",
+      "USDTBSC": "BNB-USDT"
+    },
+    "payout_fees": {
+      "LTC": "5",
+      "default": "0"
+    }
+  },
+  "private_bots": {
+    "enabled": true,
+    "mode": "polling",
+    "owner_only": true,
+    "max_polling_bots": 25,
+    "master_key_file": ".private_bot_master_key",
+    "webhook_base_url": "",
+    "webhook_listen_host": "127.0.0.1",
+    "webhook_listen_port": 8790,
+    "poll_lock_dir": ".private_bot_locks"
+  }
+}

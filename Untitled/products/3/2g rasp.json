@@ -1,0 +1,25 @@
+{
+  "total_products": 4,
+  "products": [
+    {
+      "id": 1,
+      "content": "2R: https://pomf2.lain.la/f/u4hzlolk.jpeg",
+      "status": "sold"
+    },
+    {
+      "id": 2,
+      "content": "2🍋: https://pomf2.lain.la/f/eddihp0e.jpeg",
+      "status": "sold"
+    },
+    {
+      "id": 3,
+      "content": "https://dd.th61.com/00tjt4jliaq6.jpg",
+      "status": "sold"
+    },
+    {
+      "id": 4,
+      "content": "https://dd.th61.com/00tjt4jliaq6.jpg",
+      "status": "sold"
+    }
+  ]
+}
